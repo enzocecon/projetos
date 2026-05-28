@@ -1,7 +1,20 @@
 body{
-background-color: rgb(255, 255, 255);
+background-color: rgb(14, 20, 210);
+text-align: center;
 }
+
 img{
 border-radius: 50px;
+}
+
+.Cartao{    
+width: 50%;
+background-color: chartreuse;
+margin: auto;
+}
+
+.propaganda{ 
+height: 260px;
+background-color: red;
 
 }
