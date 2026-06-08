@@ -5,9 +5,10 @@ text-align: center;
 
 .Cartao{
 
-width: 50%;
+width: 40%;
 background-color: chartreuse;
 margin: auto;
+border-radius: 20%;
 }
 
 .propaganda{ 
